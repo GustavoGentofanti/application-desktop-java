@@ -1,6 +1,4 @@
-# Primeira aplicação DESKTOP utilizando Java :computer:
-
-
+# <h1 align="center"> Primeira aplicação DESKTOP utilizando Java :computer: </h1>
 
 ### :large_blue_circle: Abrir o projeto em uma IDE...
 
